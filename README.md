@@ -5,4 +5,5 @@ vs; pong
 jw:ping
 np:pong
 np:ping
+vs:pong
 
