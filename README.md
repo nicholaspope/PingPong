@@ -10,3 +10,4 @@ vs:pong
 jw:ping
 EB:pong
 eb:pongagain
+np:ping
