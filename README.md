@@ -1,1 +1,3 @@
 # PingPong
+np: ping
+
