@@ -8,4 +8,5 @@ np:ping
 vs:pong
 jw:ping
 np:pong
+jw:ping
 
