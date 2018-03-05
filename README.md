@@ -13,4 +13,5 @@ eb:pongagain
 np:ping
 EB: pong
 jw:ping
+EB: pong
 
